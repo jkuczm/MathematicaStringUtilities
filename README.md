@@ -11,7 +11,8 @@ Set of tools for managing strings in Mathematica.
     * [Manual installation](#manual-installation)
     * [No installation](#no-installation)
 * [Compatibility](#compatibility)
-* [Feedback](#feedback)
+* [Bugs and requests](#bugs-and-requests)
+* [Contributing](#contributing)
 * [License](#license)
 * [Versioning](#versioning)
 
@@ -68,12 +69,21 @@ versions of Mathematica.
 
 
 
-## Feedback
+## Bugs and requests
 
 If you find any bugs or have feature request please create an
 [issue on GitHub](https://github.com/jkuczm/MathematicaStringUtilities/issues).
 
-Also feel free to fork and send pull requests.
+
+
+## Contributing
+
+Feel free to fork and send pull requests.
+
+If you want to use Ant scripts from this repository you will also need to
+install [WWBCommon](https://github.com/jkuczm/WWBCommon) project.
+
+All contributions are welcome!
 
 
 
