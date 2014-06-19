@@ -1,4 +1,6 @@
 # String Utilities
+
+[![release](http://img.shields.io/github/release/jkuczm/MathematicaStringUtilities.svg)](https://github.com/jkuczm/MathematicaStringUtilities/releases/latest)
 [![Semantic Versioning](http://img.shields.io/badge/SemVer-2.0.0-brightgreen.svg)](http://semver.org/spec/v2.0.0.html)
 [![license MIT](http://img.shields.io/:license-MIT-blue.svg)](https://github.com/jkuczm/MathematicaStringUtilities/blob/master/LICENSE)
 
